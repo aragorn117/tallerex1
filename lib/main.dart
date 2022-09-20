@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:tallerex1/caracteristicas/verificacion/bloc.dart';
+import 'package:tallerex1/caracteristicas/bloc.dart';
 import 'package:tallerex1/caracteristicas/verificacion/vista/vista_creandose.dart';
 import 'package:tallerex1/caracteristicas/verificacion/vista/vista_esperando_nombre.dart';
 
